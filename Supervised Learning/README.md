@@ -33,6 +33,8 @@ Data Source: [Boston Housing dataset](https://www.kaggle.com/c/boston-housing) a
 
 ## Conclusion
    The objective of this project is to identify the model that provides the most accurate and reliable predictions for house prices in Boston.
+### Note:
+* The results and findings from this analysis can be used to assist real estate stakeholders, policymakers, and individuals in making informed decisions related to housing in Boston.
 
 ### Running the program:
 The file Boston_housing.ipynb is a jupiter notebook and it can be ran on Anaconda, google colab or any IDE that supports jupiter notebooks or lab
